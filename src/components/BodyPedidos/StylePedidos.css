@@ -1,0 +1,10 @@
+.ContainerPrincipalPedidos{
+    padding:0 8rem;
+}
+
+
+@media(max-width:600px){
+    .ContainerPrincipalPedidos{
+        padding:0 0rem;
+    }
+}
